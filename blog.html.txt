@@ -4,12 +4,12 @@
 <meta name="author" content="name goes here">
 <meta charset="UTF-8">
 <link type="text/css" rel="stylesheet" href="style.css">
-<title>My Blog</title>
+<title>my blog</title>
 </head>
 <body>
 	<content>
 		<header>
-		<h1>My Blog</h1>
+		<h1>my blog</h1>
 		<ul id="nav">
 			<li><a href="index.html">home</a></li>
 			<li><a href="lived.html">lived <br />experiences</a></li>
@@ -17,7 +17,7 @@
 			<li><a href="#">formal <br />research</a></li>
 			<li><a href="#">remix</a></li>
 			<li><a href="#">course <br />retrospective</a></li>
-			<li><a href="#">blog</a></li>
+			<li><a href="blog.html">blog</a></li>
 		</ul>
 		</header>
 		<main>
@@ -25,7 +25,7 @@
 			<p>blah, blah, blah...</p>
 		</main>
 		<footer>
-		<p>&copy; 2013 Patrick Sharp</p>
+		<p>&copy; 2013 [Name goes here]</p>
 		</footer>
 	</content>
 </body>	
