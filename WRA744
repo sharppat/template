@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<head>
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>Final Project</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>The Adventures of WRA 110</h1>
+		<ul id="nav">
+			<li><a href="home.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural<br />analysis</a></li>
+			<li><a href="research.html">formal<br />research</a></li>
+			<li><a href="Remix.html">blogs</a></li>
+			
+		</ul>
+		</header>
+		<main>
+			<h1>Hello from the class of 2013</h1>
+			<p>This website is dedicated to the hardworking students of the 2013 class of WRA 110</p>
+			<p>If you are an incoming freshman or a student looking to take WRA 110, than read on! This site will give you the ins and outs of WRA 110 and show you the formula and tricks to getting a 4.0 on every project.</p>
+			<p>With a little bit of hard work and this wguide to WRA, we have no doubt that you'll be quickly soaring your way to 100% on every paper and project.</p>
+
+			
+		</main>
+		<footer>
+		<p>&copy; 2013 Patrick Sharp</p>
+		</footer>
+	</content>
+</body>	
